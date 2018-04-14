@@ -1,14 +1,23 @@
 # this file contains secret.
+<<<<<<< HEAD
 keys.csv
 
 lambda.zip
+=======
+./keys.csv
+
+./lambda.zip
+>>>>>>> f079c2c0248b7847a92a8b40e1c21e3b0f359cdc
 
 ./twitter/
 ./pandas/
 
+<<<<<<< HEAD
 local_module
 
 remover_lambda.py
 
 .ipynb_checkpoints
 __pycache__
+=======
+>>>>>>> f079c2c0248b7847a92a8b40e1c21e3b0f359cdc
