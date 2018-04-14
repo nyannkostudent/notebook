@@ -1,2 +1,14 @@
 # this file contains secret.
-./keys.csv
+keys.csv
+
+lambda.zip
+
+./twitter/
+./pandas/
+
+local_module
+
+remover_lambda.py
+
+.ipynb_checkpoints
+__pycache__
